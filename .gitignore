@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Java
+target/
+*.class
+.mvn/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Docker
+.env
+
+# Logs
+logs/
+*.log
